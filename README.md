@@ -51,10 +51,6 @@ README.md          # You're here!
 LICENSE            # MIT License (optional)
 
 ---
-## 🧪 Usage
-```python
-from imop_lcs import imop_lcs
 
-text1 = "abcabcabc"
-text2 = "abcabc"
-print(imop_lcs(text1, text2))  # Output: 6
+
+
