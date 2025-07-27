@@ -51,7 +51,8 @@ README.md          # You're here!
 LICENSE            # MIT License (optional)
 
 ---
-## Usage
+
+## 🧪 Usage
 
 ```python
 from imop_lcs import imop_lcs
