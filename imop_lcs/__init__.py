@@ -1,4 +1,3 @@
-
 """
 IMOP-LCS (Index Mapping + Ordered Projection for LCS)
 
@@ -8,6 +7,6 @@ Description:
     using index mapping and LIS (Longest Increasing Subsequence).
 """
 
-from .imop_lcs import imop_lcs, longestCommonSubsequence
+from .imop_lcs import imop_lcs
 
-__all__ = ['imop_lcs', 'longestCommonSubsequence']
+__all__ = ['imop_lcs']
